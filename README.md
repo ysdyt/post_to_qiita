@@ -1,5 +1,5 @@
 # post_to_qiita
 
-主にQiita投稿内容の元になったJupyter Notebookをおいておく場所。
+Qiitaに投稿したmarkdownファイルやJupyter Notebookをおいておく場所。
 
-Qiitaのページは[こちら](http://qiita.com/ysdyt)です
+Qiitaのページは [http://qiita.com/ysdyt](http://qiita.com/ysdyt) です
